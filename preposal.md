@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Homepage of the Web track
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+I will be working on individually. 
 
 ## Do you have any questions of your own?
 
-TODO
+I would be happy to hear any tips or suggestions.
