@@ -1,0 +1,61 @@
+<style>
+project-folder/
+├── index.html
+├── about.html
+├── contact.html
+└── style.css
+
+
+
+background-color: lightblue;
+
+    
+    .title
+    {
+        color:brown;
+        font-size: 20px;
+        center
+
+    }
+    body{
+        background-color: lightblue;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+
+        
+    }
+    nav {
+        background-color: #343a40;
+        color: white;
+        padding: 10px;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    nav a {
+        color: white;
+        text-decoration: thick;
+        margin: 0 10px;
+    }
+
+    nav a:hover {
+        color: #f8f9fa;
+    }
+    h1 {
+        color: #343a40;
+        font-size: 40px;
+        margin-bottom: 20px;
+        font-weight: bold;
+    }
+    h2 {
+        color: #343a40;
+        font-size: 30px;
+        margin-bottom: 20px;
+        font-weight: bold;
+    }
+
+    .highlighted {
+        font-weight: bold;
+    }
